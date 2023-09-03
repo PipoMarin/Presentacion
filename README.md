@@ -1,7 +1,7 @@
 # Agustín Alan Marin
 Mi presentación personal-Paradigmas de programación
 
-![](./IMG/Foto.jpg)
+![Este soy yo](Foto.jpg)
 
 ## Datos Personales
 
