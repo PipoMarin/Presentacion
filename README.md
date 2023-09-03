@@ -10,6 +10,7 @@ Mi presentación personal-Paradigmas de programación
 * Nacionalidad: Argentino 
 * Apodo: Pipo
 * Trabajo como recepcionista de un consultorio médico
+* Correo: pipomarin20@gmail.com
 
 ## Pasatiempos
 * Ver Anime
@@ -22,3 +23,4 @@ Mi presentación personal-Paradigmas de programación
 * Películas: Harry Potter, en especial "El Prisionero de Azkaban
 * Juego: League of Leyends
 * Genero musical: Rap y pop
+
