@@ -11,6 +11,7 @@ Mi presentación personal-Paradigmas de programación
 * Apodo: Pipo
 * Trabajo como recepcionista de un consultorio médico
 * Correo: pipomarin20@gmail.com
+* [Intagram](https://instagram.com/agustin__marin?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==)
 
 ## Pasatiempos
 * Ver Anime
